@@ -7,6 +7,11 @@ DecoyShield is a modular honeypot-based cybersecurity system designed to detect,
 It simulates vulnerable services to attract potential attackers and monitors their behavior to gain insights into attack patterns, intent, and threat levels.
 
 ---
+## 🧾 Project Type
+**Group Mini Project** (Academic)
+
+Developed as part of a team project to explore honeypot-based cybersecurity concepts.
+
 
 ## 🚀 Features
 
